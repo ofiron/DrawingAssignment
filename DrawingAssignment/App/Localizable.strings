@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  DrawingAssignment
+
+  Created by Ofir Ron on 19/12/2017.
+  Copyright © 2017 Ofir Ron. All rights reserved.
+*/
+
+"alert.ok" = "Ok";
+"alert.cancel" = "Cancel";
+"alert.error.title" = "Error";
+
+"alert.error.message.savingImage" = "Failed to save image";
+"alert.error.message.savingCanvas" = "Failed to save canvas";
+
+"alert.error.message.loadingFile" = "Failed to load file";
+"alert.error.message.savingFile." = "Failed to save file";
+"alert.error.message.loadingList" = "Failed to load list of drawings";
+
+"alert.success.message.savingImage" = "Image Saved";
+"alert.success.message.savingCanvas" = "Canvas Saved";
+
+"alert.selectColor.title" = "Select color";
+"alert.selectColor.color.red" = "Red";
+"alert.selectColor.color.green" = "Green";
+"alert.selectColor.color.blue" = "Blue";
+"alert.selectColor.color.black" = "Black";
+
+"alert.selectWidth.title" = "Select width";
+"alert.selectWidth.width.small" = "Small";
+"alert.selectWidth.width.normal" = "Normal";
+"alert.selectWidth.width.big" = "Big";
+
+"listCell.edit.never" = "Never";
